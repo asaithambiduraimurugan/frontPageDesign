@@ -20,6 +20,7 @@ class myCollectionViewCell: UICollectionViewCell {
         return UINib(nibName: "myCollectionViewCell", bundle: nil)
     }
 
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
