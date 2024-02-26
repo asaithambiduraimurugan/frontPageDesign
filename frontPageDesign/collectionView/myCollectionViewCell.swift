@@ -25,3 +25,4 @@ class myCollectionViewCell: UICollectionViewCell {
         // Initialization code
     }
 }
+
